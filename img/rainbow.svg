@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="125px" viewBox="0 0 126 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Rainbow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Page-(Desktop)" transform="translate(-1314.000000, 0.000000)">
+            <g id="Rainbow" transform="translate(1392.080909, 47.163310) rotate(44.818454) translate(-1392.080909, -47.163310) translate(1298.080909, 25.163310)">
+                <rect id="Purple" fill="#9013FE" x="1" y="36" width="186.872545" height="7.18577835"></rect>
+                <rect id="Blue" fill="#4A90E2" x="0.992857887" y="29.000051" width="186.872545" height="7.18577835"></rect>
+                <rect id="Green" fill="#7ED321" x="0.992857887" y="22.000051" width="186.872545" height="7.18577835"></rect>
+                <rect id="Yellow" fill="#F8E71C" x="1" y="15" width="186.872545" height="7.18577835"></rect>
+                <rect id="Orange" fill="#F5A623" x="0.982819393" y="8.18020947" width="186.872545" height="7.18577835"></rect>
+                <rect id="Red" fill="#D0021B" x="0.982819393" y="0.994431117" width="186.872545" height="7.18577835"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

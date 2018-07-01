@@ -1,0 +1,155 @@
+* {
+    font-family: 'Source Han Sans', 'Noto Sans', sans-serif;
+    outline: none;
+}
+
+html, body {
+    color: white;
+    height: 100%;
+}
+
+body {
+    background: url("img/background.jpg") no-repeat fixed center center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+a {
+    color: white;
+}
+
+.top-right-corner {
+    position: absolute;
+    right: 0;
+}
+
+.top-right-corner img {
+    width: 40px;
+}
+
+.content {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.title-en {
+    margin-left: 4px;
+    font-size: 32px;
+}
+
+.subtitle {
+    font-size: 40px;
+}
+
+.subtitle-en {
+    margin-left: 4px;
+    font-size: 24px;
+}
+
+.link {
+    margin-top: 20px;
+}
+
+.link a {
+    position: relative;
+    margin-right: 20px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #039BE5;
+    border: 2px solid #0277BD;
+    border-radius: 8px;
+}
+
+.link a:hover {
+    background-color: #0288D1;
+}
+
+.link span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.background-source {
+    margin-bottom: 4px;
+    font-size: 14px;
+    font-family: 'Source Han Serif', 'Noto Serif', serif;
+}
+
+.copyright {
+    font-size: 12px;
+}
+
+@media (max-width: 480px) {
+
+    .top-right-corner img {
+        width: 32px;
+    }
+
+    .content {
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    .title {
+        display: block;
+        font-size: 40px;
+    }
+
+    .title-en {
+        display: block;
+        margin-left: 4px;
+        font-size: 24px;
+    }
+
+    .subtitle {
+        display: block;
+        font-size: 32px;
+    }
+
+    .subtitle-en {
+        display: block;
+        margin-left: 4px;
+        font-size: 16px;
+    }
+
+    .link a {
+        margin-right: 10px;
+        width: 32px;
+        height: 32px;
+    }
+
+    .link span {
+        font-size: 16px;
+    }
+
+    .background-source {
+        margin-bottom: 2px;
+        font-size: 10px;
+    }
+
+    .copyright {
+        font-size: 8px;
+    }
+}
