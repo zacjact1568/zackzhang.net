@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="126px" height="125px" viewBox="0 0 126 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+<svg width="224px" height="222px" viewBox="0 0 224 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
     <title>Rainbow</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Main-Page-(Desktop)" transform="translate(-1314.000000, 0.000000)">
-            <g id="Rainbow" transform="translate(1392.080909, 47.163310) rotate(44.818454) translate(-1392.080909, -47.163310) translate(1298.080909, 25.163310)">
-                <rect id="Purple" fill="#9013FE" x="1" y="36" width="186.872545" height="7.18577835"></rect>
-                <rect id="Blue" fill="#4A90E2" x="0.992857887" y="29.000051" width="186.872545" height="7.18577835"></rect>
-                <rect id="Green" fill="#7ED321" x="0.992857887" y="22.000051" width="186.872545" height="7.18577835"></rect>
-                <rect id="Yellow" fill="#F8E71C" x="1" y="15" width="186.872545" height="7.18577835"></rect>
-                <rect id="Orange" fill="#F5A623" x="0.982819393" y="8.18020947" width="186.872545" height="7.18577835"></rect>
-                <rect id="Red" fill="#D0021B" x="0.982819393" y="0.994431117" width="186.872545" height="7.18577835"></rect>
+        <g id="Main-Page" transform="translate(-1216.000000, 0.000000)">
+            <g id="Rainbow" transform="translate(1363.899414, 75.546352) rotate(44.818454) translate(-1363.899414, -75.546352) translate(1205.899414, 24.546352)">
+                <rect id="Purple" fill="#9013FE" x="0.205637252" y="84.0232365" width="315.672102" height="17.0961867"></rect>
+                <rect id="Blue" fill="#4A90E2" x="0.193572527" y="67.3691694" width="315.672102" height="17.0961867"></rect>
+                <rect id="Green" fill="#7ED321" x="0.193572527" y="50.7149809" width="315.672102" height="17.0961867"></rect>
+                <rect id="Yellow" fill="#F8E71C" x="0.205637252" y="34.0606711" width="315.672102" height="17.0961867"></rect>
+                <rect id="Orange" fill="#F5A623" x="0.176615128" y="17.8352315" width="315.672102" height="17.0961867"></rect>
+                <rect id="Red" fill="#D0021B" x="0.176615128" y="0.739044763" width="315.672102" height="17.0961867"></rect>
             </g>
         </g>
     </g>
