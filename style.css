@@ -63,15 +63,6 @@ a {
     color: #262A30;
 }
 
-.top-right-corner {
-    position: absolute;
-    right: 0;
-}
-
-.top-right-corner img {
-    width: 40px;
-}
-
 .content {
     position: absolute;
     left: 10%;
