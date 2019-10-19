@@ -1,18 +1,5 @@
 * {
     font-family:
-            /* 思源黑体 (安装) */
-            'Source Han Sans SC',
-            'Source Han Sans CN',
-            'Noto Sans CJK SC',
-
-            /*
-             * 在 Apple 系设备的 Webkit 内核浏览器中使用默认字体
-             * 中：苹方，西：San Francisco
-             */
-            -apple-system,
-            /* 让 Chrome 支持上述属性 */
-            BlinkMacSystemFont,
-
             /* 西文 */
 
             /* 来自 Google Fonts */
@@ -22,8 +9,20 @@
             /* Windows 预装 */
             'Arial',
 
+            /*
+             * 在 Apple 系设备的 Webkit 内核浏览器中使用默认字体
+             * 中：苹方，西：San Francisco
+             */
+            -apple-system,
+            /* 让 Chrome 支持上述属性 */
+            BlinkMacSystemFont,
+
             /* 中文 */
 
+            /* 思源黑体 (安装) */
+            'Source Han Sans SC',
+            'Source Han Sans CN',
+            'Noto Sans CJK SC',
             /* 苹方 (OSX >= 10.11 || iOS >= 9) */
             'PingFang SC',
             /* 冬青黑体 (OSX >= 10.6) */
@@ -124,18 +123,16 @@ a {
     text-align: center;
 }
 
-.background-source {
-    margin-bottom: 4px;
+.background-description {
     font-size: 14px;
     font-family:
-            /* 思源宋体 (安装) */
-            'Source Han Serif SC',
             /* 来自 Google Fonts */
             'Source Serif Pro',
             serif;
 }
 
 .copyright {
+    margin-top: 4px;
     font-size: 12px;
 }
 
@@ -158,7 +155,7 @@ a {
 
     .title-en {
         display: block;
-        margin-left: 4px;
+        margin-left: unset;
         font-size: 24px;
     }
 
@@ -169,7 +166,7 @@ a {
 
     .subtitle-en {
         display: block;
-        margin-left: 4px;
+        margin-left: unset;
         font-size: 16px;
     }
 
@@ -184,12 +181,12 @@ a {
         font-size: 16px;
     }
 
-    .background-source {
-        margin-bottom: 2px;
+    .background-description {
         font-size: 10px;
     }
 
     .copyright {
+        margin-top: 2px;
         font-size: 8px;
     }
 }
