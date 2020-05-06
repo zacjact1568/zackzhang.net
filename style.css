@@ -4,12 +4,11 @@
             BlinkMacSystemFont,
             'Helvetica Neue',
             'Arial',
+            'Roboto',
+            'Source Han Sans SC',
             'PingFang SC',
-            'Hiragino Sans GB',
-            'STHeiti',
             'Microsoft YaHei',
-            'SimHei',
-            'WenQuanYi Micro Hei',
+            'Noto Sans CJK SC',
             sans-serif;
     outline: none;
 }
@@ -46,24 +45,38 @@ a {
 
 .title {
     font-size: 50px;
-    font-family: 'Noto Sans SC', sans-serif;
+}
+
+.title, .subtitle {
+    font-family:
+            'Source Han Sans SC',
+            'Noto Sans CJK SC',
+            'Noto Sans SC',
+            'PingFang SC',
+            'Microsoft YaHei',
+            sans-serif;
 }
 
 .title-en {
-    margin-left: 4px;
     font-size: 32px;
-    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.title-en, .subtitle-en {
+    margin-left: 4px;
+    font-family:
+            'Alegreya Sans SC',
+            'Helvetica Neue',
+            'Arial',
+            'Roboto',
+            sans-serif;
 }
 
 .subtitle {
     font-size: 40px;
-    font-family: 'Noto Sans SC', sans-serif;
 }
 
 .subtitle-en {
-    margin-left: 4px;
     font-size: 24px;
-    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .link {
